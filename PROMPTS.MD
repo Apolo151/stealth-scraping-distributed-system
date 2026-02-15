@@ -34,3 +34,35 @@ For each text:
 - perform basic visibility check (e.g., display: none)
 - check that it is at the top (not element on top of it)
 ```
+
+## Task 4
+
+### Prompt 1
+```
+Polish the system design for a scalable and reliable distributed web scraping system in an organized report according to the following points
+``
+- microservices producer-consumer architcture
+
+- producer creates tasks & sends them to queue
+- Worker nodes consume tasks (stateless containers)
+- Spin up extra worker nodes (horiztonal scaling) to handle extra load
+- use prometheus (node exporter) to get worker nodes metrics: system heatlh, load, logs
+- use SQL database to store state and results
+
+----
+
+Message queue system (RabbitMQ) for task distribution
+Worker node architecture with horizontal scaling
+SQL Database
+Monitoring stack integration points with multiple microservices such as but not limited to
+System Health 
+System Current Load
+System Error Logging
+Failover and recovery mechanisms
+``
+```
+
+### Prompt 2
+```
+Implement the full architecture diagram using mermaid according to the stated system design document.
+```

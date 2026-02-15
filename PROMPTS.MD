@@ -1,5 +1,39 @@
 # AI Prompts
 
+## Task 1
+
+### Prompt 1
+```
+Implement the `solve_with_stealth` function:
+Steps:
+- Human-like "Warm-up"
+- Trigger recaptcha
+- Extract token and result
+
+Apply stealth scripting practices to achieve a good capatcha score
+```
+
+### Prompt 2
+```
+I want to make my browser automation appear as human as possible. implement the following:
+- User Agent Rotation: create a list of realistic user agent strings for different browsersand platforms. randomly pick one each session.
+
+- Viewport Randomization: Prepare a list of common screen resolutions. randomly select one each session
+
+- Timezone Variation: Prepare a list of timezones. Each session should randomly pick one.
+
+- Random Config Function: Write a function that returns a random user agent, viewport, and timezone from the above lists.
+```
+
+### Prompt 3
+```
+I want to make my browser automation appear as human as possible. implement the following functions:
+- `human_like_mouse_move`: move mouse in a human-like curved path using bezier curve
+- `natural_scroll`: natural scrolling (variable speed, pauses, ...)
+- `realistic_delay`: perform human-like delays
+```
+
+## Task 2
 
 ## Task 3
 

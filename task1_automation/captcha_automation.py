@@ -134,7 +134,7 @@ async def solve_with_stealth(
     if proxy:
         print(f"[+] Using Proxy: {proxy.split('@')[-1]}")
 
-    async with Stealth().use_async(async_playwright()) as p:
+    async with async_playwright() as p:
         # Launch browser with stealth settings
         browser = await p.chromium.launch(
             headless=headless,
@@ -147,6 +147,10 @@ async def solve_with_stealth(
 
         context = await browser.new_context()
         page = await context.new_page()
+        
+        # Apply stealth mode
+        stealth_config = Stealth()
+        await stealth_config.apply_stealth_async(page)
 
         # ===== STEP 1: Human-like "Warm-up" ====
         await page.goto(target_url, wait_until="networkidle")

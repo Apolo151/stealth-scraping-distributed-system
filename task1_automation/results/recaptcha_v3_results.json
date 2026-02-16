@@ -1,0 +1,1262 @@
+{
+  "timestamp": "2026-02-16T17:33:24.704173",
+  "total_runs": 250,
+  "successful_extractions": 247,
+  "high_scores": 66,
+  "percentage_high": 26.720647773279353,
+  "average_score": 0.36558704453441293,
+  "requirement_met": true,
+  "elapsed_minutes": 125.49769525,
+  "results": [
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.3,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.3,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.3,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.3,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.3,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.3,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.3,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.3,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.3,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.3,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.3,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.3,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.3,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.3,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.3,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": null,
+      "success": null,
+      "token": null
+    },
+    {
+      "score": 0.3,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.3,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.3,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.9,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.3,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.3,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.3,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.3,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.3,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.3,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.3,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.7,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.7,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.7,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.7,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.7,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": null,
+      "success": null,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": null,
+      "success": null,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.7,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.7,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.7,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.7,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.7,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.7,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.7,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.7,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    },
+    {
+      "score": 0.1,
+      "success": true,
+      "token": null
+    }
+  ]
+}

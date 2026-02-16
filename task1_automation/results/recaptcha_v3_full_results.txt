@@ -1,0 +1,254 @@
+# Task 1 Assessment — 2026-02-16 17:33:24
+# 247 successful runs, 66 ≥0.9 (26.72%)
+# Average score: 0.366
+
+[  1] Score: 0.900 | Success: True | Token: —
+[  2] Score: 0.900 | Success: True | Token: —
+[  3] Score: 0.900 | Success: True | Token: —
+[  4] Score: 0.900 | Success: True | Token: —
+[  5] Score: 0.900 | Success: True | Token: —
+[  6] Score: 0.900 | Success: True | Token: —
+[  7] Score: 0.900 | Success: True | Token: —
+[  8] Score: 0.900 | Success: True | Token: —
+[  9] Score: 0.900 | Success: True | Token: —
+[ 10] Score: 0.900 | Success: True | Token: —
+[ 11] Score: 0.900 | Success: True | Token: —
+[ 12] Score: 0.900 | Success: True | Token: —
+[ 13] Score: 0.900 | Success: True | Token: —
+[ 14] Score: 0.900 | Success: True | Token: —
+[ 15] Score: 0.900 | Success: True | Token: —
+[ 16] Score: 0.900 | Success: True | Token: —
+[ 17] Score: 0.900 | Success: True | Token: —
+[ 18] Score: 0.900 | Success: True | Token: —
+[ 19] Score: 0.900 | Success: True | Token: —
+[ 20] Score: 0.900 | Success: True | Token: —
+[ 21] Score: 0.900 | Success: True | Token: —
+[ 22] Score: 0.900 | Success: True | Token: —
+[ 23] Score: 0.900 | Success: True | Token: —
+[ 24] Score: 0.900 | Success: True | Token: —
+[ 25] Score: 0.900 | Success: True | Token: —
+[ 26] Score: 0.900 | Success: True | Token: —
+[ 27] Score: 0.900 | Success: True | Token: —
+[ 28] Score: 0.900 | Success: True | Token: —
+[ 29] Score: 0.900 | Success: True | Token: —
+[ 30] Score: 0.900 | Success: True | Token: —
+[ 31] Score: 0.900 | Success: True | Token: —
+[ 32] Score: 0.900 | Success: True | Token: —
+[ 33] Score: 0.900 | Success: True | Token: —
+[ 34] Score: 0.900 | Success: True | Token: —
+[ 35] Score: 0.900 | Success: True | Token: —
+[ 36] Score: 0.900 | Success: True | Token: —
+[ 37] Score: 0.900 | Success: True | Token: —
+[ 38] Score: 0.900 | Success: True | Token: —
+[ 39] Score: 0.900 | Success: True | Token: —
+[ 40] Score: 0.900 | Success: True | Token: —
+[ 41] Score: 0.900 | Success: True | Token: —
+[ 42] Score: 0.900 | Success: True | Token: —
+[ 43] Score: 0.900 | Success: True | Token: —
+[ 44] Score: 0.900 | Success: True | Token: —
+[ 45] Score: 0.900 | Success: True | Token: —
+[ 46] Score: 0.900 | Success: True | Token: —
+[ 47] Score: 0.900 | Success: True | Token: —
+[ 48] Score: 0.900 | Success: True | Token: —
+[ 49] Score: 0.300 | Success: True | Token: —
+[ 50] Score: 0.300 | Success: True | Token: —
+[ 51] Score: 0.300 | Success: True | Token: —
+[ 52] Score: 0.900 | Success: True | Token: —
+[ 53] Score: 0.900 | Success: True | Token: —
+[ 54] Score: 0.900 | Success: True | Token: —
+[ 55] Score: 0.300 | Success: True | Token: —
+[ 56] Score: 0.300 | Success: True | Token: —
+[ 57] Score: 0.300 | Success: True | Token: —
+[ 58] Score: 0.900 | Success: True | Token: —
+[ 59] Score: 0.300 | Success: True | Token: —
+[ 60] Score: 0.300 | Success: True | Token: —
+[ 61] Score: 0.300 | Success: True | Token: —
+[ 62] Score: 0.900 | Success: True | Token: —
+[ 63] Score: 0.900 | Success: True | Token: —
+[ 64] Score: 0.100 | Success: True | Token: —
+[ 65] Score: 0.300 | Success: True | Token: —
+[ 66] Score: 0.300 | Success: True | Token: —
+[ 67] Score: 0.900 | Success: True | Token: —
+[ 68] Score: 0.300 | Success: True | Token: —
+[ 69] Score: 0.900 | Success: True | Token: —
+[ 70] Score: 0.300 | Success: True | Token: —
+[ 71] Score: 0.900 | Success: True | Token: —
+[ 72] Score: 0.900 | Success: True | Token: —
+[ 73] Score: 0.100 | Success: True | Token: —
+[ 74] Score: 0.300 | Success: True | Token: —
+[ 75] Score: 0.900 | Success: True | Token: —
+[ 76] Score: 0.300 | Success: True | Token: —
+[ 77] FAILED
+[ 78] Score: 0.300 | Success: True | Token: —
+[ 79] Score: 0.300 | Success: True | Token: —
+[ 80] Score: 0.900 | Success: True | Token: —
+[ 81] Score: 0.900 | Success: True | Token: —
+[ 82] Score: 0.300 | Success: True | Token: —
+[ 83] Score: 0.900 | Success: True | Token: —
+[ 84] Score: 0.900 | Success: True | Token: —
+[ 85] Score: 0.100 | Success: True | Token: —
+[ 86] Score: 0.900 | Success: True | Token: —
+[ 87] Score: 0.900 | Success: True | Token: —
+[ 88] Score: 0.900 | Success: True | Token: —
+[ 89] Score: 0.300 | Success: True | Token: —
+[ 90] Score: 0.300 | Success: True | Token: —
+[ 91] Score: 0.300 | Success: True | Token: —
+[ 92] Score: 0.300 | Success: True | Token: —
+[ 93] Score: 0.300 | Success: True | Token: —
+[ 94] Score: 0.300 | Success: True | Token: —
+[ 95] Score: 0.100 | Success: True | Token: —
+[ 96] Score: 0.300 | Success: True | Token: —
+[ 97] Score: 0.700 | Success: True | Token: —
+[ 98] Score: 0.100 | Success: True | Token: —
+[ 99] Score: 0.100 | Success: True | Token: —
+[100] Score: 0.100 | Success: True | Token: —
+[101] Score: 0.100 | Success: True | Token: —
+[102] Score: 0.100 | Success: True | Token: —
+[103] Score: 0.100 | Success: True | Token: —
+[104] Score: 0.100 | Success: True | Token: —
+[105] Score: 0.100 | Success: True | Token: —
+[106] Score: 0.100 | Success: True | Token: —
+[107] Score: 0.700 | Success: True | Token: —
+[108] Score: 0.100 | Success: True | Token: —
+[109] Score: 0.100 | Success: True | Token: —
+[110] Score: 0.100 | Success: True | Token: —
+[111] Score: 0.100 | Success: True | Token: —
+[112] Score: 0.100 | Success: True | Token: —
+[113] Score: 0.100 | Success: True | Token: —
+[114] Score: 0.100 | Success: True | Token: —
+[115] Score: 0.100 | Success: True | Token: —
+[116] Score: 0.100 | Success: True | Token: —
+[117] Score: 0.100 | Success: True | Token: —
+[118] Score: 0.100 | Success: True | Token: —
+[119] Score: 0.100 | Success: True | Token: —
+[120] Score: 0.100 | Success: True | Token: —
+[121] Score: 0.100 | Success: True | Token: —
+[122] Score: 0.100 | Success: True | Token: —
+[123] Score: 0.100 | Success: True | Token: —
+[124] Score: 0.100 | Success: True | Token: —
+[125] Score: 0.100 | Success: True | Token: —
+[126] Score: 0.700 | Success: True | Token: —
+[127] Score: 0.100 | Success: True | Token: —
+[128] Score: 0.100 | Success: True | Token: —
+[129] Score: 0.100 | Success: True | Token: —
+[130] Score: 0.100 | Success: True | Token: —
+[131] Score: 0.100 | Success: True | Token: —
+[132] Score: 0.100 | Success: True | Token: —
+[133] Score: 0.100 | Success: True | Token: —
+[134] Score: 0.100 | Success: True | Token: —
+[135] Score: 0.700 | Success: True | Token: —
+[136] Score: 0.700 | Success: True | Token: —
+[137] Score: 0.100 | Success: True | Token: —
+[138] Score: 0.100 | Success: True | Token: —
+[139] Score: 0.100 | Success: True | Token: —
+[140] FAILED
+[141] Score: 0.100 | Success: True | Token: —
+[142] Score: 0.100 | Success: True | Token: —
+[143] FAILED
+[144] Score: 0.100 | Success: True | Token: —
+[145] Score: 0.100 | Success: True | Token: —
+[146] Score: 0.700 | Success: True | Token: —
+[147] Score: 0.100 | Success: True | Token: —
+[148] Score: 0.700 | Success: True | Token: —
+[149] Score: 0.100 | Success: True | Token: —
+[150] Score: 0.100 | Success: True | Token: —
+[151] Score: 0.700 | Success: True | Token: —
+[152] Score: 0.100 | Success: True | Token: —
+[153] Score: 0.100 | Success: True | Token: —
+[154] Score: 0.100 | Success: True | Token: —
+[155] Score: 0.100 | Success: True | Token: —
+[156] Score: 0.100 | Success: True | Token: —
+[157] Score: 0.100 | Success: True | Token: —
+[158] Score: 0.100 | Success: True | Token: —
+[159] Score: 0.100 | Success: True | Token: —
+[160] Score: 0.100 | Success: True | Token: —
+[161] Score: 0.100 | Success: True | Token: —
+[162] Score: 0.700 | Success: True | Token: —
+[163] Score: 0.100 | Success: True | Token: —
+[164] Score: 0.100 | Success: True | Token: —
+[165] Score: 0.100 | Success: True | Token: —
+[166] Score: 0.100 | Success: True | Token: —
+[167] Score: 0.100 | Success: True | Token: —
+[168] Score: 0.100 | Success: True | Token: —
+[169] Score: 0.100 | Success: True | Token: —
+[170] Score: 0.100 | Success: True | Token: —
+[171] Score: 0.100 | Success: True | Token: —
+[172] Score: 0.100 | Success: True | Token: —
+[173] Score: 0.100 | Success: True | Token: —
+[174] Score: 0.100 | Success: True | Token: —
+[175] Score: 0.100 | Success: True | Token: —
+[176] Score: 0.100 | Success: True | Token: —
+[177] Score: 0.100 | Success: True | Token: —
+[178] Score: 0.100 | Success: True | Token: —
+[179] Score: 0.100 | Success: True | Token: —
+[180] Score: 0.700 | Success: True | Token: —
+[181] Score: 0.100 | Success: True | Token: —
+[182] Score: 0.100 | Success: True | Token: —
+[183] Score: 0.100 | Success: True | Token: —
+[184] Score: 0.100 | Success: True | Token: —
+[185] Score: 0.100 | Success: True | Token: —
+[186] Score: 0.700 | Success: True | Token: —
+[187] Score: 0.100 | Success: True | Token: —
+[188] Score: 0.100 | Success: True | Token: —
+[189] Score: 0.100 | Success: True | Token: —
+[190] Score: 0.100 | Success: True | Token: —
+[191] Score: 0.100 | Success: True | Token: —
+[192] Score: 0.100 | Success: True | Token: —
+[193] Score: 0.100 | Success: True | Token: —
+[194] Score: 0.700 | Success: True | Token: —
+[195] Score: 0.100 | Success: True | Token: —
+[196] Score: 0.100 | Success: True | Token: —
+[197] Score: 0.100 | Success: True | Token: —
+[198] Score: 0.100 | Success: True | Token: —
+[199] Score: 0.100 | Success: True | Token: —
+[200] Score: 0.700 | Success: True | Token: —
+[201] Score: 0.100 | Success: True | Token: —
+[202] Score: 0.100 | Success: True | Token: —
+[203] Score: 0.100 | Success: True | Token: —
+[204] Score: 0.100 | Success: True | Token: —
+[205] Score: 0.100 | Success: True | Token: —
+[206] Score: 0.100 | Success: True | Token: —
+[207] Score: 0.100 | Success: True | Token: —
+[208] Score: 0.100 | Success: True | Token: —
+[209] Score: 0.100 | Success: True | Token: —
+[210] Score: 0.100 | Success: True | Token: —
+[211] Score: 0.100 | Success: True | Token: —
+[212] Score: 0.100 | Success: True | Token: —
+[213] Score: 0.100 | Success: True | Token: —
+[214] Score: 0.100 | Success: True | Token: —
+[215] Score: 0.100 | Success: True | Token: —
+[216] Score: 0.100 | Success: True | Token: —
+[217] Score: 0.100 | Success: True | Token: —
+[218] Score: 0.100 | Success: True | Token: —
+[219] Score: 0.100 | Success: True | Token: —
+[220] Score: 0.100 | Success: True | Token: —
+[221] Score: 0.100 | Success: True | Token: —
+[222] Score: 0.100 | Success: True | Token: —
+[223] Score: 0.100 | Success: True | Token: —
+[224] Score: 0.100 | Success: True | Token: —
+[225] Score: 0.100 | Success: True | Token: —
+[226] Score: 0.100 | Success: True | Token: —
+[227] Score: 0.100 | Success: True | Token: —
+[228] Score: 0.100 | Success: True | Token: —
+[229] Score: 0.100 | Success: True | Token: —
+[230] Score: 0.100 | Success: True | Token: —
+[231] Score: 0.100 | Success: True | Token: —
+[232] Score: 0.100 | Success: True | Token: —
+[233] Score: 0.100 | Success: True | Token: —
+[234] Score: 0.100 | Success: True | Token: —
+[235] Score: 0.100 | Success: True | Token: —
+[236] Score: 0.100 | Success: True | Token: —
+[237] Score: 0.100 | Success: True | Token: —
+[238] Score: 0.100 | Success: True | Token: —
+[239] Score: 0.100 | Success: True | Token: —
+[240] Score: 0.100 | Success: True | Token: —
+[241] Score: 0.100 | Success: True | Token: —
+[242] Score: 0.100 | Success: True | Token: —
+[243] Score: 0.100 | Success: True | Token: —
+[244] Score: 0.100 | Success: True | Token: —
+[245] Score: 0.100 | Success: True | Token: —
+[246] Score: 0.100 | Success: True | Token: —
+[247] Score: 0.100 | Success: True | Token: —
+[248] Score: 0.100 | Success: True | Token: —
+[249] Score: 0.100 | Success: True | Token: —
+[250] Score: 0.100 | Success: True | Token: —

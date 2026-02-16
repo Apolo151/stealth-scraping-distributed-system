@@ -35,6 +35,18 @@ I want to make my browser automation appear as human as possible. implement the 
 
 ## Task 2
 
+### Prompt 1
+```
+Setup a simple FastAPI app with the following structure:
+- On/recaptcha/in endpoint: 
+	- Takes all needed inputs from the user and returns a TaskID.
+	- Initiates solving mechanism (Task 1). @recaptcha_sript
+- On /recaptcha/res endpoint
+- Takes TaskID from the user and returns the token.
+
+Use sqlite as a database, and limit the system to 10 concurrent tasks.
+```
+
 ## Task 3
 
 ### Prompt 1

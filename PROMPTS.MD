@@ -33,6 +33,11 @@ I want to make my browser automation appear as human as possible. implement the 
 - `realistic_delay`: perform human-like delays
 ```
 
+### Prompt 4
+```
+create a concise readme for task1
+```
+
 ## Task 2
 
 ### Prompt 1
@@ -111,4 +116,12 @@ Failover and recovery mechanisms
 ### Prompt 2
 ```
 Implement the full architecture diagram using mermaid according to the stated system design document.
+```
+
+## General Prompts
+
+### Prompt 1
+
+```
+update the main readme file to include concise details about each task.
 ```
